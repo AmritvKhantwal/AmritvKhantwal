@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **Networking, Linux, Pentesting**
 
+ <script src="https://tryhackme.com/badge/716920"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xk1tsun3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xk1tsun3" height="30" width="40" /></a>
