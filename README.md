@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Networking, Linux, Pentesting**
 
- <script src="https://tryhackme.com/badge/716920"></script>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/kitsun3pearce.png" alt="TryHackMe">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
